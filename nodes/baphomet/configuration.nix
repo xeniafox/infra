@@ -31,6 +31,7 @@
     nfs-utils
     git
     kubernetes-helm
+    helmfile
   ];
 
   services.openssh.enable = true;
