@@ -1,0 +1,3 @@
+[submodule "nodes/baphomet/supabase-kubernetes"]
+	path = nodes/baphomet/supabase-kubernetes
+	url = https://github.com/supabase-community/supabase-kubernetes
