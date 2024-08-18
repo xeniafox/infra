@@ -30,6 +30,7 @@
     cifs-utils
     nfs-utils
     git
+    kubernetes-helm
   ];
 
   services.openssh.enable = true;
